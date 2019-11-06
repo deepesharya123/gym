@@ -74,7 +74,7 @@ table{
 
 #gym1{
     opacity: .6777;   
-    
+    float: inherit;
     size: auto fixed cover;  
   
 }
