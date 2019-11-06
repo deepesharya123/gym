@@ -1,7 +1,8 @@
 body{
     
     background: url(../images/og1.jpg)
-        center center fixed;
+        center center fixed 
+        no-repeat;
 
 
 }.dropdown {
