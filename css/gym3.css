@@ -35,11 +35,6 @@ table{
     text-align: center;
     color: deeppink;
 }
-#gym1{
-    opacity: .7777;
-    size: auto fixed cover;
-  
-}
 #nav1{
     text-align: center;
     font-size: 30px;
@@ -76,14 +71,17 @@ table{
     color: white;
     background-color: rgb(28, 120, 226);
 }
-#demand{
-    align-content: center;
+
+#gym1{
+    opacity: .6777;   
+    
+    size: auto fixed cover;  
   
 }
+
 video{
 
-width: 1400px;
-    margin-left: 50px;
+width: 1200px;
     height: 500px;
 }
 
